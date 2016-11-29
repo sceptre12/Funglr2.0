@@ -1,4 +1,4 @@
-## Funglr 2.0 
+## Funglr 2.0 (Learning)
 
 # Recreating Tumblr with Angular
 
